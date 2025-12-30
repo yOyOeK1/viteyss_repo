@@ -1,1 +1,1 @@
-{ 'apps': ['blank_repo_test'] }
+{ "apps": ["blank_repo_test"] }
