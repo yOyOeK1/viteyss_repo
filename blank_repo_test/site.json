@@ -1,0 +1,13 @@
+{
+    "oName": "blank_repo_page",
+    "o": null,
+    "dir": "blank",
+    "jssrc":["s_blankPage.js"],
+    "enable": true,
+    "author": "Bartlomiej Ceglik <yoyoek@wp.pl>",
+    "ver": "0.0.1",
+    "desc": "To test repository atack",
+    "otdm":{
+        "playground": false
+    }
+}

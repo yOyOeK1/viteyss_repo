@@ -1,0 +1,1 @@
+{ 'apps': ['blank_repo_test'] }
