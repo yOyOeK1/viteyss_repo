@@ -7,12 +7,12 @@
     {
       "name": "settings1",
       "type": "site",
-      "url": "/home/yoyo/Apps/viteyss-site-settings1"
+      "url": "https://github.com/yOyOeK1/viteyss-site-settings1.git"
     },
     {
       "name": "2qest",
       "type": "site",
-      "url": "/home/yoyo/Apps/viteyss-site-2qest",
+      "url": "https://github.com/yOyOeK1/viteyss-site-2qest.git",
       "deps": {
         "settings1": "0.0.0"
       }
