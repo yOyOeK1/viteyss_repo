@@ -8,7 +8,7 @@
       "name": "blank",
       "type": "dirFromGit",
       "url": "https://github.com/yOyOeK1/oiyshTerminal.git",
-      "subdir": "/ySS_calibration/sites/blank"
+      "subdir": "ySS_calibration/sites/blank"
     },
     {
       "name": "settings1",
