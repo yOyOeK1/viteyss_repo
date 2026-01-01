@@ -15,7 +15,7 @@
       "name": "iloo_nav_3d",
       "type": "dirFromGit",
       "url": "https://github.com/yOyOeK1/oiyshTerminal",
-      "subdir": "ySS_calibration/sites/ilo_nav_3d"
+      "subdir": "ySS_calibration/sites/iloo_nav_3d"
     },
     {
       "name": "test_Three.js",
