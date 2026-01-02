@@ -10,7 +10,19 @@
       "url": "https://github.com/yOyOeK1/oiyshTerminal",
       "subdir": "ySS_calibration/sites/blank"
     },
-   
+    
+    {
+      "name": "3d_action_clips",
+      "type": "dirFromGit",
+      "url": "https://github.com/yOyOeK1/oiyshTerminal",
+      "subdir": "ySS_calibration/sites/3d_action_clips"
+    },
+    {
+      "name": "3d_compass1",
+      "type": "dirFromGit",
+      "url": "https://github.com/yOyOeK1/oiyshTerminal",
+      "subdir": "ySS_calibration/sites/3d_compass1"
+    },
     {
       "name": "iloo_nav_3d",
       "type": "dirFromGit",
