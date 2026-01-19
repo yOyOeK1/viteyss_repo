@@ -42,11 +42,18 @@
       "url": "https://github.com/yOyOeK1/viteyss-site-settings1"
     },
     {
+      "name": "keyMaps",
+      "type": "site",
+      "url": "https://github.com/yOyOeK1/viteyss-site-keyMaps",
+      
+    },
+    {
       "name": "2qest",
       "type": "site",
       "url": "https://github.com/yOyOeK1/viteyss-site-2qest",
       "deps": {
-        "settings1": "0.0.0"
+        "settings1": "0.0.0",
+        "keyMaps": "0.0.0"
       }
     },
     {
