@@ -44,8 +44,7 @@
     {
       "name": "keyMaps",
       "type": "site",
-      "url": "https://github.com/yOyOeK1/viteyss-site-keyMaps",
-      
+      "url": "https://github.com/yOyOeK1/viteyss-site-keyMaps"      
     },
     {
       "name": "2qest",
